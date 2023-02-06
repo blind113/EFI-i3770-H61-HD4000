@@ -7,4 +7,5 @@ Installed on Catalina 10.14
 
 #Mainboard H61m-e22/w8 MSI
 
+To use gen a new SMBIO for iMac13,1 - Catalina / iMac15,1 Big Sur
 
